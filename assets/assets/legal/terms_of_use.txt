@@ -1,0 +1,75 @@
+
+DIREITA MAIS
+DIREITA MAIS  |  DOCUMENTAÇÃO JURÍDICA
+Termos de Uso
+Condições de acesso, comunicação privada, arquivos, agenda e Direita Mais PRO.
+EDIÇÃO 1.3  •  21 de outubro de 2026
+Aplicativo de comunicação para maiores de 18 anos, desenvolvido pela Direita Mais Company. Versão de demonstração disponível até 29 de outubro de 2026.
+REVISAR ANTES DA PUBLICAÇÃO OFICIAL: ESTA EDIÇÃO ACOMPANHA A VERSÃO DE DEMONSTRAÇÃO
+Esta edição reflete o funcionamento atual do aplicativo: identificação por ID, conversas e chamadas, agenda local com alarmes, limites de envio de arquivos e ativação do Direita Mais PRO sem cobrança durante o período de testes.
+
+Versão: 1.3  |  Atualização: 21 de outubro de 2026  |  Vigência: a partir da disponibilização e aceite no aplicativo
+Estes Termos de Uso (“Termos”) regem o acesso e a utilização do Direita Mais, aplicativo de comunicação desenvolvido e disponibilizado pela Direita Mais Company (“Direita Mais Company”, “nós”). A Política de Privacidade integra estes Termos e explica como os dados são tratados.
+1. Quem somos e como falar conosco
+1.1. O Direita Mais é um produto da Direita Mais Company, responsável pelo aplicativo e pelo tratamento de dados descrito na Política de Privacidade.
+1.2. Dúvidas, solicitações, denúncias e pedidos relacionados a estes Termos podem ser enviados para o e-mail contato@direitamais.com.br. As solicitações de privacidade também podem ser feitas pela Central de Privacidade dentro do aplicativo.
+1.3. Ao utilizar o aplicativo, o usuário declara ter lido e aceitado estes Termos e a Política de Privacidade, por meio do aceite apresentado no cadastro. A Direita Mais Company poderá registrar a versão aceita e o momento do aceite.
+2. Versão de demonstração e prazo de testes
+2.1. Esta versão do Direita Mais é demonstrativa e destina-se à avaliação do aplicativo. Ela permanece disponível até 29 de outubro de 2026.
+2.2. A partir de 30 de outubro de 2026, ao abrir o aplicativo, o usuário verá um aviso de que o prazo de testes foi encerrado, e o uso deixará de estar disponível nesta versão.
+2.3. Durante o período de testes, recursos, textos e aparência podem mudar sem aviso prévio, e a disponibilidade dos serviços de infraestrutura não é garantida de forma contínua. Recomenda-se não utilizar a versão de demonstração como único meio de guarda de informações importantes.
+2.4. O encerramento do prazo de testes não gera direito a indenização, por se tratar de versão gratuita e de avaliação, sem prejuízo dos direitos garantidos por lei.
+3. Cadastro e conta
+3.1. A conta é identificada por um ID gerado pelo aplicativo. Não é exigido nome civil, número de telefone, e-mail ou documento de identidade. O serviço é destinado exclusivamente a maiores de 18 anos.
+3.2. O usuário é responsável por proteger sua senha, seu PIN, suas chaves de criptografia e o próprio aparelho. A perda do aparelho ou das credenciais pode impedir a recuperação de mensagens, arquivos e do acesso à conta.
+3.3. Identificadores de conta, endereço IP e registros técnicos podem ser considerados dados pessoais, conforme descrito na Política de Privacidade.
+4. Conversas, chamadas e criptografia
+4.1. Conversas individuais utilizam criptografia de ponta a ponta baseada no Protocolo Signal. Textos, áudios, fotos, vídeos, arquivos e a negociação das chamadas são cifrados no aparelho de quem envia e só podem ser abertos pelo destinatário.
+4.2. Conversas em grupo ainda não utilizam criptografia de ponta a ponta. O conteúdo de grupos é protegido em trânsito, mas o usuário deve considerar essa diferença ao compartilhar informações sensíveis.
+4.3. Chamadas de voz e vídeo, individuais ou em grupo com até 24 participantes, trafegam cifradas (DTLS-SRTP). Chamadas em grupo podem utilizar servidor de retransmissão de mídia, que não armazena o conteúdo das chamadas.
+4.4. O usuário pode verificar a identidade de um contato comparando o número de segurança ou lendo o código QR do contato, e é avisado quando a chave de um contato muda.
+4.5. A criptografia não impede capturas de tela, gravações, encaminhamentos, cópias feitas por outros participantes, notificações exibidas no aparelho ou acesso por dispositivos comprometidos.
+5. Exclusão de mensagens e conversas
+5.1. Limpar ou apagar uma conversa remove o conteúdo apenas do aparelho de quem realiza a ação. A conversa não é apagada no aparelho dos demais participantes, e uma conversa apagada reaparece quando chega uma nova mensagem.
+5.2. A exclusão automática de mensagens, configurada em Ajustes > Privacidade, apaga as mensagens deste aparelho ao fechar o aplicativo ou após 1 hora, 1 dia, 1 semana ou 1 mês, conforme a opção escolhida.
+5.3. O Direita Mais não oferece restauração de conteúdo apagado. A exclusão não garante a eliminação de cópias externas, backups do sistema ou vestígios fora do controle do aplicativo.
+6. Fotos, vídeos e documentos
+6.1. Na conta gratuita, cada foto, vídeo ou documento enviado pode ter até 100 MB. Fotos acima de 2 MB e vídeos acima de 16 MB são comprimidos automaticamente antes do envio, o que pode reduzir sua resolução e qualidade.
+6.2. No Direita Mais PRO, fotos e vídeos são enviados na qualidade original, sem compressão, e cada foto, vídeo ou documento pode ter até 1 GB.
+6.3. Envios acima do limite da conta são recusados pelo aplicativo. O envio também pode depender da conexão, do espaço e da memória disponíveis no aparelho.
+6.4. O usuário deve verificar a procedência e a segurança dos arquivos que envia e recebe, e é responsável pelas cópias que salvar, exportar ou compartilhar fora do aplicativo.
+7. Agenda e alarmes
+7.1. A agenda do Direita Mais é pessoal e fica somente no aparelho do usuário. Os compromissos não são enviados aos servidores nem sincronizados com outros aparelhos e são apagados ao sair da conta.
+7.2. No Android, compromissos com horário tocam um alarme no início do evento, abrem o aplicativo com as informações do compromisso e exibem uma notificação até que o alarme seja desligado ou adiado. No computador, o alarme toca enquanto o aplicativo estiver aberto.
+7.3. O funcionamento do alarme depende das permissões concedidas pelo usuário (notificações, alarmes exatos e exibição em tela cheia) e das configurações de economia de energia do aparelho. O Direita Mais não se responsabiliza por compromissos perdidos por permissões negadas, aparelho desligado ou restrições do sistema operacional.
+8. Direita Mais PRO
+8.1. O Direita Mais PRO libera recursos adicionais: os temas exclusivos Índigo, Menta e Vidro; fotos e vídeos sem compressão; envio de arquivos de até 1 GB; e o selo PRO no perfil.
+8.2. Durante o período de testes, o PRO é ativado pelo próprio usuário em Ajustes > Direita Mais PRO, sem qualquer cobrança e sem coleta de dados de pagamento. O plano permanece ativo no aparelho até o encerramento da versão de demonstração.
+8.3. Caso o Direita Mais PRO passe a ser oferecido mediante assinatura paga em versão futura, preço, periodicidade, renovação, cancelamento e reembolso serão informados de forma clara antes da contratação, com respeito ao direito de arrependimento previsto no Código de Defesa do Consumidor.
+8.4. Se o PRO deixar de estar ativo, os temas exclusivos voltam ao tema Padrão e passam a valer os limites da conta gratuita.
+9. Uso aceitável
+9.1. É proibido utilizar o Direita Mais para ameaças, fraudes, perseguição, exploração de crianças ou adolescentes, divulgação não consentida de conteúdo íntimo, distribuição de malware, spam, violação de direitos autorais ou qualquer outro ato ilícito.
+9.2. Não é permitido contornar controles de segurança, explorar vulnerabilidades, fazer engenharia reversa para fins abusivos ou se passar por outra pessoa.
+9.3. A Direita Mais Company poderá restringir ou encerrar contas que violem estes Termos, respeitando os limites técnicos da criptografia: não há leitura ou monitoramento rotineiro das conversas privadas.
+9.4. Informações técnicas disponíveis poderão ser fornecidas mediante ordem válida de autoridade competente, nos termos da lei.
+10. Propriedade intelectual
+10.1. A Direita Mais Company concede ao usuário licença pessoal, limitada, não exclusiva e revogável para utilizar o aplicativo conforme estes Termos.
+10.2. A marca Direita Mais, o código, os temas, os ícones e os demais elementos do aplicativo pertencem à Direita Mais Company ou a seus licenciantes.
+10.3. Os conteúdos enviados pelos usuários continuam pertencendo a seus titulares. O envio não transfere direitos sobre esses conteúdos à Direita Mais Company.
+11. Disponibilidade e segurança
+11.1. O funcionamento depende de conexão com a internet, do aparelho e dos serviços de infraestrutura utilizados. Manutenções e interrupções podem ocorrer.
+11.2. O usuário deve manter o sistema do aparelho atualizado, proteger o acesso ao aparelho e evitar arquivos e aplicativos suspeitos.
+12. Crianças e adolescentes
+12.1. O Direita Mais é destinado exclusivamente a pessoas com 18 anos completos ou mais. É vedado o uso por crianças e adolescentes, mesmo com autorização dos responsáveis.
+12.2. Havendo indícios de uso por menor de 18 anos, a Direita Mais Company poderá restringir ou encerrar o acesso.
+13. Encerramento da conta
+13.1. O usuário pode sair da conta ou excluí-la pelo aplicativo, ou solicitar apoio pelo e-mail contato@direitamais.com.br ou pela Central de Privacidade.
+13.2. Excluir a conta não apaga as mensagens já recebidas por outros participantes nem registros cuja guarda seja exigida por lei.
+14. Responsabilidades
+14.1. O usuário responde pelos conteúdos que envia e pelas decisões de compartilhamento.
+14.2. A Direita Mais Company responde pelas obrigações previstas na legislação brasileira, inclusive de proteção de dados e de defesa do consumidor. Nenhuma cláusula destes Termos afasta garantias legais obrigatórias.
+15. Lei aplicável, alterações e contato
+15.1. Estes Termos são regidos pela legislação brasileira.
+15.2. Alterações relevantes serão informadas no aplicativo, e um novo aceite será solicitado quando exigido.
+15.3. Se alguma disposição for considerada inválida, as demais continuam válidas.
+15.4. Responsável: Direita Mais Company. Contato: contato@direitamais.com.br.
