@@ -49938,7 +49938,7 @@ cnu(){var s=0,r=A.j(t.Cy),q,p,o,n
 var $async$bVP=A.e(function(a,b){if(a===1)return A.f(b,r)
 for(;;)switch(s){case 0:p=null
 o=null
-n=12
+n=13
 J.l(n,0)
 q=null
 s=1
@@ -81487,7 +81487,7 @@ p=A.d(k,k,k)
 j=j.RG==null?j.a:B.j
 o=A.d(k,k,k)
 n=s.a2?A.d("Plano PRO ativado","PRO plan active","Plan PRO activado"):A.d("Privacidade e recursos avan\xe7ados","Privacy and advanced features","Privacidad y funciones avanzadas")
-return A.f0(A.a([new A.azh(s,l),B.bj,new A.t1(l,q,l),new A.t1(p,A.a([new A.iz(l,new A.Jw(22,j,l),o,n,new A.bhy(m,a),l,l,l)],r),l),new A.t1(A.d("GERAL","GENERAL","GENERAL"),A.a([new A.iz(B.vB,l,A.d("Notifica\xe7\xf5es","Notifications","Notificaciones"),A.d("Sons, vibra\xe7\xe3o e alertas","Sounds, vibration and alerts","Sonidos, vibraci\xf3n y alertas"),new A.bhz(m,a),l,l,l),B.hi,new A.iz(B.eI,l,A.d("Privacidade","Privacy","Privacidad"),A.d("Visibilidade e confirma\xe7\xe3o de leitura","Visibility and read receipts","Visibilidad y confirmaci\xf3n de lectura"),new A.bhA(m,a),l,l,l),B.hi,new A.iz(B.FL,l,A.d("Seguran\xe7a","Security","Seguridad"),A.d("Senha, PIN e exclus\xe3o de conta","Password, PIN and account deletion","Contrase\xf1a, PIN y eliminaci\xf3n de cuenta"),new A.bhB(m,a),l,l,l),B.hi,new A.iz(B.ahy,l,A.d("Apar\xeancia","Appearance","Apariencia"),A.cx5(s.gM5()),new A.bhC(m,a),l,l,l),B.hi,new A.iz(B.ahl,l,A.d("Idioma","Language","Idioma"),A.cx4(s.av),new A.bhD(m,a),l,l,l)],r),l),new A.t1(A.d("DADOS","DATA","DATOS"),A.a([new A.iz(B.ahI,l,A.d("Armazenamento","Storage","Almacenamiento"),A.d("Gerenciar dados e cache","Manage data and cache","Administrar datos y cach\xe9"),new A.bhE(m,a),l,l,l)],r),l),new A.t1(A.d("SUPORTE","SUPPORT","SOPORTE"),A.a([new A.iz(B.agI,l,A.d("Ajuda","Help","Ayuda"),A.d("Perguntas frequentes e suporte","FAQ and support","Preguntas frecuentes y soporte"),new A.bhF(m,a),l,l,l),B.hi,new A.iz(B.jJ,l,A.d("Sobre o Direita Mais","About Direita Mais","Acerca de Direita Mais"),A.d("Vers\xe3o","Version","Versi\xf3n")+" 1.0.11",new A.bhx(m,a),l,l,l)],r),l)],r),l,B.DW,l,l,B.P,!1)},
+return A.f0(A.a([new A.azh(s,l),B.bj,new A.t1(l,q,l),new A.t1(p,A.a([new A.iz(l,new A.Jw(22,j,l),o,n,new A.bhy(m,a),l,l,l)],r),l),new A.t1(A.d("GERAL","GENERAL","GENERAL"),A.a([new A.iz(B.vB,l,A.d("Notifica\xe7\xf5es","Notifications","Notificaciones"),A.d("Sons, vibra\xe7\xe3o e alertas","Sounds, vibration and alerts","Sonidos, vibraci\xf3n y alertas"),new A.bhz(m,a),l,l,l),B.hi,new A.iz(B.eI,l,A.d("Privacidade","Privacy","Privacidad"),A.d("Visibilidade e confirma\xe7\xe3o de leitura","Visibility and read receipts","Visibilidad y confirmaci\xf3n de lectura"),new A.bhA(m,a),l,l,l),B.hi,new A.iz(B.FL,l,A.d("Seguran\xe7a","Security","Seguridad"),A.d("Senha, PIN e exclus\xe3o de conta","Password, PIN and account deletion","Contrase\xf1a, PIN y eliminaci\xf3n de cuenta"),new A.bhB(m,a),l,l,l),B.hi,new A.iz(B.ahy,l,A.d("Apar\xeancia","Appearance","Apariencia"),A.cx5(s.gM5()),new A.bhC(m,a),l,l,l),B.hi,new A.iz(B.ahl,l,A.d("Idioma","Language","Idioma"),A.cx4(s.av),new A.bhD(m,a),l,l,l)],r),l),new A.t1(A.d("DADOS","DATA","DATOS"),A.a([new A.iz(B.ahI,l,A.d("Armazenamento","Storage","Almacenamiento"),A.d("Gerenciar dados e cache","Manage data and cache","Administrar datos y cach\xe9"),new A.bhE(m,a),l,l,l)],r),l),new A.t1(A.d("SUPORTE","SUPPORT","SOPORTE"),A.a([new A.iz(B.agI,l,A.d("Ajuda","Help","Ayuda"),A.d("Perguntas frequentes e suporte","FAQ and support","Preguntas frecuentes y soporte"),new A.bhF(m,a),l,l,l),B.hi,new A.iz(B.jJ,l,A.d("Sobre o Direita Mais","About Direita Mais","Acerca de Direita Mais"),A.d("Vers\xe3o","Version","Versi\xf3n")+" 1.0.12",new A.bhx(m,a),l,l,l)],r),l)],r),l,B.DW,l,l,B.P,!1)},
 bcG(a){var s=null,r=t.a.a(A.E(a).c.h(0,A.ab(t.q)))
 r.toString
 A.eM(s,s,!0,s,new A.bhn(this,r,a),a,s,!0,t.z)},
@@ -81597,7 +81597,7 @@ $S:0}
 A.bhj.prototype={
 $1(a){var s,r,q,p,o,n,m=null,l="Direita Mais PRO",k="Direita Mais Company \u2014 contato@direitamais.com.br",j=this.b,i=(this.a-j)/2,h=A.bn(16),g=this.c,f=g.a,e=t.p,d=A.b_(A.a([A.bZ(m,B.aiu,B.t,m,m,new A.b8(f,m,m,B.a2J,m,m,m,B.I),m,40,m,m,m,m,m,40),B.cG,A.r("Direita Mais",m,m,m,m,m,m,m,m,m)],e),B.k,m,B.h,B.l,0,m)
 g=g.Q
-s=A.a([A.r(A.d("Vers\xe3o","Version","Versi\xf3n")+" 1.0.11",m,m,m,m,m,B.iL,m,m,m),B.bH,A.r(A.d("Mensageiro privado","Private messenger","Mensajero privado"),m,m,m,m,m,A.aj(m,m,g,m,m,m,m,m,m,m,m,13,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m,m),B.b6,A.r(A.d("Mensageiro privado e seguro para conversas, chamadas e agenda, desenvolvido pela Direita Mais Company. Voc\xea se identifica por um ID, sem precisar de telefone ou e-mail. Vers\xe3o de demonstra\xe7\xe3o dispon\xedvel at\xe9 29 de outubro de 2026.","A private, secure messenger for chats, calls and a calendar, made by Direita Mais Company. You are identified by an ID, with no phone number or e-mail required. Demo version available until October 29, 2026.","Mensajero privado y seguro para conversaciones, llamadas y agenda, desarrollado por Direita Mais Company. Te identificas con un ID, sin necesidad de tel\xe9fono ni correo. Versi\xf3n de demostraci\xf3n disponible hasta el 29 de octubre de 2026."),m,m,m,m,m,B.ZA,m,m,m),B.aw],e)
+s=A.a([A.r(A.d("Vers\xe3o","Version","Versi\xf3n")+" 1.0.12",m,m,m,m,m,B.iL,m,m,m),B.bH,A.r(A.d("Mensageiro privado","Private messenger","Mensajero privado"),m,m,m,m,m,A.aj(m,m,g,m,m,m,m,m,m,m,m,13,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m,m),B.b6,A.r(A.d("Mensageiro privado e seguro para conversas, chamadas e agenda, desenvolvido pela Direita Mais Company. Voc\xea se identifica por um ID, sem precisar de telefone ou e-mail. Vers\xe3o de demonstra\xe7\xe3o dispon\xedvel at\xe9 29 de outubro de 2026.","A private, secure messenger for chats, calls and a calendar, made by Direita Mais Company. You are identified by an ID, with no phone number or e-mail required. Demo version available until October 29, 2026.","Mensajero privado y seguro para conversaciones, llamadas y agenda, desarrollado por Direita Mais Company. Te identificas con un ID, sin necesidad de tel\xe9fono ni correo. Versi\xf3n de demostraci\xf3n disponible hasta el 29 de octubre de 2026."),m,m,m,m,m,B.ZA,m,m,m),B.aw],e)
 for(r=[new A.as(A.d("Criptografia de ponta a ponta","End-to-end encryption","Cifrado de extremo a extremo"),A.d("Mensagens e m\xeddias protegidas.","Protected messages and media.","Mensajes y medios protegidos.")),new A.as(A.d("Chamadas de voz e v\xeddeo","Voice and video calls","Llamadas de voz y video"),A.d("Individuais ou em grupo com at\xe9 24 pessoas.","One-to-one or in groups of up to 24 people.","Individuales o en grupo de hasta 24 personas.")),new A.as(A.d("Agenda","Calendar","Agenda"),A.d("Calend\xe1rio, semana por hor\xe1rio, cria\xe7\xe3o r\xe1pida por texto e alarmes no hor\xe1rio do compromisso.","Calendar, hourly week view, quick add by text and alarms when an event starts.","Calendario, semana por horas, creaci\xf3n r\xe1pida por texto y alarmas a la hora del evento.")),new A.as(A.d("Controle de privacidade","Privacy controls","Control de privacidad"),A.d("Autoexcluir mensagens, conversas trancadas e quem pode te ligar.","Auto-delete messages, locked chats and who can call you.","Autoeliminar mensajes, conversaciones protegidas y qui\xe9n puede llamarte.")),new A.as(A.d(l,l,l),A.d("Temas exclusivos, m\xeddia sem compress\xe3o e arquivos de at\xe9 1 GB.","Exclusive themes, uncompressed media and files up to 1 GB.","Temas exclusivos, multimedia sin compresi\xf3n y archivos de hasta 1 GB.")),new A.as(A.d("Contato","Contact","Contacto"),A.d(k,k,k))],q=t.VO,p=0;p<6;++p){o=r[p]
 n=A.ax(B.Ff,f,m,m,18)
 o=A.a([new A.fj(o.a+"\n",m,m,B.b_,m,m,m,m,m,m,B.iL),new A.fj(o.b,m,m,B.b_,m,m,m,m,m,m,new A.P(!0,g,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m))],q)
@@ -82647,27 +82647,26 @@ q.di=o
 q.d7=!1
 q.at=B.rH}if(!q.af)q.aA()
 return null},
-D(a){var s,r,q,p,o,n,m,l,k=this,j=null,i="Continuar",h=t.a.a(A.E(a).c.h(0,A.ab(t.q)))
-h.toString
-s=new A.bN8(k)
-r=k.a.c
+D(a){var s,r,q,p,o,n,m,l=this,k=null,j="Continuar",i=t.a.a(A.E(a).c.h(0,A.ab(t.q)))
+i.toString
+s=new A.bN8(l)
+r=l.a.c
 q=A.d("Crie seu acesso","Create your login","Crea tu acceso")
-p=A.d("Use um e-mail e uma senha, ou sua conta Google.","Use an e-mail and a password, or your Google account.","Usa un correo y una contrase\xf1a, o tu cuenta de Google.")
-o=h.as
-n=t.p
-s=A.a([A.e3(!1,B.af,!1,j,!0,B.n,j,A.ec(),k.ga29(),j,j,j,j,j,2,A.dC(j,j,j,j,j,j,j,j,!0,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,j,A.d("E-mail","E-mail","Correo"),!0,!0,!1,j,B.ais,j,j,j,j,j,j,j,j,j,j,j,j),B.D,!0,j,!0,j,!1,j,B.ak,j,j,j,B.b_k,j,B.yF,j,j,j,1,j,j,!1,"\u2022",j,j,j,j,j,!1,j,j,!1,j,!0,j,B.at,j,j,j,j,j,j,j,j,j,j,j,j,!0,B.a2,j,B.bI,j,j,j,j),B.aw,s.$3(k.e,A.d("Senha","Password","Contrase\xf1a"),B.b0K),B.aw,s.$3(k.f,A.d("Confirmar senha","Confirm password","Confirmar contrase\xf1a"),B.b0B),B.du,A.r(A.d(u.W,"Password must be at least 8 characters.",u.T),j,j,j,j,j,B.eR.ce(o),j,j,j)],n)
-m=k.a.c
-l=m.k1
-if(l!=null)B.c.A(s,A.a([B.aw,new A.pp(l,m.gxK(),j)],n))
+p=i.as
+o=t.p
+s=A.a([A.e3(!1,B.af,!1,k,!0,B.n,k,A.ec(),l.ga29(),k,k,k,k,k,2,A.dC(k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,k,A.d("E-mail","E-mail","Correo"),!0,!0,!1,k,B.ais,k,k,k,k,k,k,k,k,k,k,k,k),B.D,!0,k,!0,k,!1,k,B.ak,k,k,k,B.b_k,k,B.yF,k,k,k,1,k,k,!1,"\u2022",k,k,k,k,k,!1,k,k,!1,k,!0,k,B.at,k,k,k,k,k,k,k,k,k,k,k,k,!0,B.a2,k,B.bI,k,k,k,k),B.aw,s.$3(l.e,A.d("Senha","Password","Contrase\xf1a"),B.b0K),B.aw,s.$3(l.f,A.d("Confirmar senha","Confirm password","Confirmar contrase\xf1a"),B.b0B),B.du,A.r(A.d(u.W,"Password must be at least 8 characters.",u.T),k,k,k,k,k,B.eR.ce(p),k,k,k)],o)
+n=l.a.c
+m=n.k1
+if(m!=null)B.c.A(s,A.a([B.aw,new A.pp(m,n.gxK(),k)],o))
 s.push(B.b6)
-m=A.d(i,"Continue",i)
-s.push(new A.nv(m,k.a.c.dx?j:k.gaRp(),!1,B.lM,B.b_T))
-h=h.fx
-h=A.b_(A.a([A.bp(new A.hs(j,j,j,j,j,h,j),1),new A.a6(B.jt,A.r(A.d("ou","or","o"),j,j,j,j,j,A.aj(j,j,o,j,j,j,j,j,j,j,j,j,j,j,j,j,j,!0,j,j,j,j,j,j,j,j),j,j,j),j),A.bp(new A.hs(j,j,j,j,j,h,j),1)],n),B.k,j,B.h,B.l,0,j)
-o=k.a.c
-o=o.dx?j:o.gaG6()
-B.c.A(s,A.a([B.ei,h,B.ei,A.v8(B.ZM,B.b_S,A.r(A.d("Continuar com Google","Continue with Google","Continuar con Google"),j,j,j,j,j,j,j,j,j),o,j)],n))
-return new A.a5x(r,1,q,p,r.gbiu(),s,j)}}
+n=A.d(j,"Continue",j)
+s.push(new A.nv(n,l.a.c.dx?k:l.gaRp(),!1,B.lM,B.b_T))
+i=i.fx
+i=A.b_(A.a([A.bp(new A.hs(k,k,k,k,k,i,k),1),new A.a6(B.jt,A.r(A.d("ou","or","o"),k,k,k,k,k,A.aj(k,k,p,k,k,k,k,k,k,k,k,k,k,k,k,k,k,!0,k,k,k,k,k,k,k,k),k,k,k),k),A.bp(new A.hs(k,k,k,k,k,i,k),1)],o),B.k,k,B.h,B.l,0,k)
+p=l.a.c
+p=p.dx?k:p.gaG6()
+B.c.A(s,A.a([B.ei,i,B.ei,A.v8(B.ZM,B.b_S,A.r(A.d("Continuar com Google","Continue with Google","Continuar con Google"),k,k,k,k,k,k,k,k,k),p,k)],o))
+return new A.a5x(r,1,q,k,r.gbiu(),s,k)}}
 A.bN8.prototype={
 $3(a,b,c){var s=null,r=this.a,q=r.r
 return A.e3(s,B.af,!1,s,!0,B.n,s,A.ec(),a,s,s,s,s,s,2,A.dC(s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,b,!0,!0,!1,s,B.vF,s,s,s,s,s,s,A.c3(s,s,s,A.ax(q?B.lS:B.jM,s,s,s,s),s,s,new A.bNa(r),s,s,s,s,s),s,s,s,s,s),B.D,!0,s,!0,s,!1,s,B.ak,s,s,s,c,s,s,s,s,s,1,s,s,q,"\u2022",s,s,s,s,s,!1,s,s,!1,s,!0,s,B.at,s,s,s,s,s,s,s,s,s,s,s,s,!0,B.a2,s,B.bI,s,s,s,s)},
@@ -82735,14 +82734,17 @@ r=A.ck(a,B.a_,t.v)
 r.toString
 return A.el(A.eO(p,!0,p,p,B.aV,p,p,A.c3(p,p,p,B.h0,p,p,q.r,p,p,p,r.gc2(),p),p,A.r(A.d("Criar sua conta","Create your account","Crea tu cuenta"),p,p,p,p,p,p,p,p,p),p,p),o.w,A.db(!0,new A.ez(new A.bNb(q,s,o),p,q.c,p),!1,B.L,!0),p,p,p)}}
 A.bNb.prototype={
-$2(a,b){var s,r,q,p=null,o=this.a,n=o.d,m=""+n,l=this.c,k=l.a
-m=A.r(A.d("Etapa "+m+" de 2","Step "+m+" of 2","Paso "+m+" de 2")+" \xb7 "+this.b,p,p,p,p,p,B.eR.AR(k,B.ag),p,p,p)
-s=A.ax(B.lQ,k,p,p,16)
-r=A.afT(o.c.cQ)
+$2(a,b){var s,r,q,p,o=null,n=this.a,m=n.d,l=""+m,k=this.c,j=k.a
+l=A.r(A.d("Etapa "+l+" de 2","Step "+l+" of 2","Paso "+l+" de 2")+" \xb7 "+this.b,o,o,o,o,o,B.eR.AR(j,B.ag),o,o,o)
+s=A.ax(B.lQ,j,o,o,16)
+r=A.afT(n.c.cQ)
 q=t.p
-q=A.a([A.b_(A.a([m,B.iD,new A.aa2(s,A.r(A.d("Convite "+r,"Invite "+r,"Invitaci\xf3n "+r),p,p,p,p,p,p,p,p,p),B.en,p)],q),B.k,p,B.h,B.l,0,p),B.bj,A.la(A.bn(4),A.b0q(l.fx,k,p,4,n/2,p),B.aN),B.cU,A.r(o.e,p,p,p,p,p,B.mK,p,p,p),B.bH,A.r(o.f,p,p,p,p,p,A.aj(p,p,l.Q,p,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p,p),B.cH],q)
-B.c.A(q,o.w)
-return A.f0(q,p,B.lH,p,p,B.P,!1)},
+m=A.a([A.b_(A.a([l,B.iD,new A.aa2(s,A.r(A.d("Convite "+r,"Invite "+r,"Invitaci\xf3n "+r),o,o,o,o,o,o,o,o,o),B.en,o)],q),B.k,o,B.h,B.l,0,o),B.bj,A.la(A.bn(4),A.b0q(k.fx,j,o,4,m/2,o),B.aN),B.cU,A.r(n.e,o,o,o,o,o,B.mK,o,o,o)],q)
+p=n.f
+if(p!=null)B.c.A(m,A.a([B.bH,A.r(p,o,o,o,o,o,A.aj(o,o,k.Q,o,o,o,o,o,o,o,o,o,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o,o)],q))
+m.push(B.cH)
+B.c.A(m,n.w)
+return A.f0(m,o,B.lH,o,o,B.P,!1)},
 $S:114}
 A.aoZ.prototype={
 D(a){var s=null,r=t.a.a(A.E(a).c.h(0,A.ab(t.q))),q=r.w,p=this.c,o=A.a([B.cH,new A.JO(66,s),B.Z2,A.r(A.d("Privacidade no seu controle","Privacy in your control","Privacidad bajo tu control"),s,s,s,s,s,B.ZI,B.a5,s,s),B.ei,A.r(A.d("O Direita Mais protege suas conversas com seguran\xe7a avan\xe7ada, respeita sua privacidade sem exigir dados pessoais e coloca sua identidade, seus arquivos e suas escolhas de comunica\xe7\xe3o sob seu controle, com uma experi\xeancia simples e segura.","Direita Mais protects your conversations with advanced security, respects your privacy without requiring personal data, and keeps your identity, files, and communication choices under your control through a simple, secure experience.","Direita Mais protege tus conversaciones con seguridad avanzada, respeta tu privacidad sin exigir datos personales y mantiene tu identidad, archivos y decisiones de comunicaci\xf3n bajo tu control, con una experiencia simple y segura."),s,s,s,s,s,B.eQ.ce(r.Q),B.a5,s,s),B.eP,new A.a3k(p.go,A.d("Li e aceito os Termos de Uso.","I have read and accept the Terms of Use.","He le\xeddo y acepto los T\xe9rminos de uso."),p.gbh1(),new A.bnY(a),s),new A.a3k(p.id,A.d("Li e aceito a Pol\xedtica de Privacidade.","I have read and accept the Privacy Policy.","He le\xeddo y acepto la Pol\xedtica de privacidad."),p.gbgZ(),new A.bnZ(a),s)],t.p),n=p.k1
@@ -82814,7 +82816,7 @@ n=k.a.c.a
 n=A.d("Vers\xe3o "+n,"Version "+n,"Versi\xf3n "+n)
 m=s.w
 q=A.r(n,B.b0W,j,j,j,j,m==null?j:m.AR(q,B.aj),B.a5,j,j)
-n=A.d("Atualize para continuar usando o app. Vers\xe3o instalada: 1.0.11.","Update to keep using the app. Installed version: 1.0.11.","Actualiza para seguir usando la app. Versi\xf3n instalada: 1.0.11.")
+n=A.d("Atualize para continuar usando o app. Vers\xe3o instalada: 1.0.12.","Update to keep using the app. Installed version: 1.0.12.","Actualiza para seguir usando la app. Versi\xf3n instalada: 1.0.12.")
 m=s.z
 l=t.p
 m=A.a([p,B.cU,o,B.aw,q,B.bj,A.r(n,j,j,j,j,j,m==null?j:m.au7(i.Q,1.5),B.a5,j,j),B.eP],l)
