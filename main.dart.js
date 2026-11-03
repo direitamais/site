@@ -51900,7 +51900,7 @@ cxw(){var s=0,r=A.j(t.Cy),q,p,o,n
 var $async$c4s=A.e(function(a,b){if(a===1)return A.f(b,r)
 for(;;)switch(s){case 0:p=null
 o=null
-n=43
+n=44
 J.m(n,0)
 q=null
 s=1
@@ -84339,7 +84339,7 @@ p=A.d(k,k,k)
 j=j.RG==null?j.a:B.l
 o=A.d(k,k,k)
 n=s.a4?A.d("Plano PRO ativado","PRO plan active","Plan PRO activado"):A.d("Privacidade e recursos avan\xe7ados","Privacy and advanced features","Privacidad y funciones avanzadas")
-return A.dO(A.a([new A.aCB(s,l),B.aF,new A.tN(l,q,l),new A.tN(p,A.a([new A.iZ(l,new A.yv(22,j,l),o,n,new A.bmA(m,a),l,l,l)],r),l),new A.tN(A.d("GERAL","GENERAL","GENERAL"),A.a([new A.iZ(B.wn,l,A.d("Notifica\xe7\xf5es","Notifications","Notificaciones"),A.d("Sons, vibra\xe7\xe3o e alertas","Sounds, vibration and alerts","Sonidos, vibraci\xf3n y alertas"),new A.bmB(m,a),l,l,l),B.hB,new A.iZ(B.fs,l,A.d("Privacidade","Privacy","Privacidad"),A.d("Visibilidade e confirma\xe7\xe3o de leitura","Visibility and read receipts","Visibilidad y confirmaci\xf3n de lectura"),new A.bmC(m,a),l,l,l),B.hB,new A.iZ(B.H7,l,A.d("Seguran\xe7a","Security","Seguridad"),A.d("Senha, PIN e exclus\xe3o de conta","Password, PIN and account deletion","Contrase\xf1a, PIN y eliminaci\xf3n de cuenta"),new A.bmD(m,a),l,l,l),B.hB,new A.iZ(B.ajQ,l,A.d("Apar\xeancia","Appearance","Apariencia"),A.cHl(s.gNP()),new A.bmE(m,a),l,l,l),B.hB,new A.iZ(B.ajB,l,A.d("Idioma","Language","Idioma"),A.cHk(s.ao),new A.bmF(m,a),l,l,l)],r),l),new A.tN(A.d("DADOS","DATA","DATOS"),A.a([new A.iZ(B.ak_,l,A.d("Armazenamento","Storage","Almacenamiento"),A.d("Gerenciar dados e cache","Manage data and cache","Administrar datos y cach\xe9"),new A.bmG(m,a),l,l,l)],r),l),new A.tN(A.d("SUPORTE","SUPPORT","SOPORTE"),A.a([new A.iZ(B.aiV,l,A.d("Ajuda","Help","Ayuda"),A.d("Perguntas frequentes e suporte","FAQ and support","Preguntas frecuentes y soporte"),new A.bmH(m,a),l,l,l),B.hB,new A.iZ(B.k9,l,A.d("Sobre a Frente Capital","About Frente Capital","Acerca de Frente Capital"),A.d("Vers\xe3o","Version","Versi\xf3n")+" 1.0.42",new A.bmz(m,a),l,l,l)],r),l)],r),l,B.F8,l,l,B.J,!1)},
+return A.dO(A.a([new A.aCB(s,l),B.aF,new A.tN(l,q,l),new A.tN(p,A.a([new A.iZ(l,new A.yv(22,j,l),o,n,new A.bmA(m,a),l,l,l)],r),l),new A.tN(A.d("GERAL","GENERAL","GENERAL"),A.a([new A.iZ(B.wn,l,A.d("Notifica\xe7\xf5es","Notifications","Notificaciones"),A.d("Sons, vibra\xe7\xe3o e alertas","Sounds, vibration and alerts","Sonidos, vibraci\xf3n y alertas"),new A.bmB(m,a),l,l,l),B.hB,new A.iZ(B.fs,l,A.d("Privacidade","Privacy","Privacidad"),A.d("Visibilidade e confirma\xe7\xe3o de leitura","Visibility and read receipts","Visibilidad y confirmaci\xf3n de lectura"),new A.bmC(m,a),l,l,l),B.hB,new A.iZ(B.H7,l,A.d("Seguran\xe7a","Security","Seguridad"),A.d("Senha, PIN e exclus\xe3o de conta","Password, PIN and account deletion","Contrase\xf1a, PIN y eliminaci\xf3n de cuenta"),new A.bmD(m,a),l,l,l),B.hB,new A.iZ(B.ajQ,l,A.d("Apar\xeancia","Appearance","Apariencia"),A.cHl(s.gNP()),new A.bmE(m,a),l,l,l),B.hB,new A.iZ(B.ajB,l,A.d("Idioma","Language","Idioma"),A.cHk(s.ao),new A.bmF(m,a),l,l,l)],r),l),new A.tN(A.d("DADOS","DATA","DATOS"),A.a([new A.iZ(B.ak_,l,A.d("Armazenamento","Storage","Almacenamiento"),A.d("Gerenciar dados e cache","Manage data and cache","Administrar datos y cach\xe9"),new A.bmG(m,a),l,l,l)],r),l),new A.tN(A.d("SUPORTE","SUPPORT","SOPORTE"),A.a([new A.iZ(B.aiV,l,A.d("Ajuda","Help","Ayuda"),A.d("Perguntas frequentes e suporte","FAQ and support","Preguntas frecuentes y soporte"),new A.bmH(m,a),l,l,l),B.hB,new A.iZ(B.k9,l,A.d("Sobre a Frente Capital","About Frente Capital","Acerca de Frente Capital"),A.d("Vers\xe3o","Version","Versi\xf3n")+" 1.0.43",new A.bmz(m,a),l,l,l)],r),l)],r),l,B.F8,l,l,B.J,!1)},
 bjs(a){var s=null,r=t.a.a(A.D(a).c.h(0,A.a9(t.q)))
 r.toString
 A.ek(s,s,!0,s,new A.bmp(this,r,a),a,s,!0,t.z)},
@@ -84449,7 +84449,7 @@ $S:0}
 A.bml.prototype={
 $1(a){var s,r,q,p,o,n,m=null,l="Frente Capital PRO",k="Frente Capital Company \u2014 contato@frentecapital.com.br",j=this.b,i=(this.a-j)/2,h=A.bd(16),g=this.c,f=g.a,e=t.p,d=A.aO(A.a([A.bV(m,B.akQ,B.r,m,m,new A.bb(f,m,m,B.a4p,m,m,m,B.H),m,40,m,m,m,m,m,40),B.bS,A.p("Frente Capital",m,m,m,m,m,m,m,m,m)],e),B.j,m,B.h,B.k,0,m)
 g=g.Q
-s=A.a([A.p(A.d("Vers\xe3o","Version","Versi\xf3n")+" 1.0.42",m,m,m,m,m,B.hR,m,m,m),B.bi,A.p(A.d("Mensageiro privado","Private messenger","Mensajero privado"),m,m,m,m,m,A.ah(m,m,g,m,m,m,m,m,m,m,m,13,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m,m),B.ay,A.p(A.d("Mensageiro privado e seguro para conversas, chamadas e agenda, desenvolvido pela Frente Capital Company. Voc\xea se identifica por um ID, sem precisar de telefone ou e-mail. Vers\xe3o de demonstra\xe7\xe3o dispon\xedvel at\xe9 29 de outubro de 2026.","A private, secure messenger for chats, calls and a calendar, made by Frente Capital Company. You are identified by an ID, with no phone number or e-mail required. Demo version available until October 29, 2026.","Mensajero privado y seguro para conversaciones, llamadas y agenda, desarrollado por Frente Capital Company. Te identificas con un ID, sin necesidad de tel\xe9fono ni correo. Versi\xf3n de demostraci\xf3n disponible hasta el 29 de octubre de 2026."),m,m,m,m,m,B.a09,m,m,m),B.af],e)
+s=A.a([A.p(A.d("Vers\xe3o","Version","Versi\xf3n")+" 1.0.43",m,m,m,m,m,B.hR,m,m,m),B.bi,A.p(A.d("Mensageiro privado","Private messenger","Mensajero privado"),m,m,m,m,m,A.ah(m,m,g,m,m,m,m,m,m,m,m,13,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m,m),B.ay,A.p(A.d("Mensageiro privado e seguro para conversas, chamadas e agenda, desenvolvido pela Frente Capital Company. Voc\xea se identifica por um ID, sem precisar de telefone ou e-mail. Vers\xe3o de demonstra\xe7\xe3o dispon\xedvel at\xe9 29 de outubro de 2026.","A private, secure messenger for chats, calls and a calendar, made by Frente Capital Company. You are identified by an ID, with no phone number or e-mail required. Demo version available until October 29, 2026.","Mensajero privado y seguro para conversaciones, llamadas y agenda, desarrollado por Frente Capital Company. Te identificas con un ID, sin necesidad de tel\xe9fono ni correo. Versi\xf3n de demostraci\xf3n disponible hasta el 29 de octubre de 2026."),m,m,m,m,m,B.a09,m,m,m),B.af],e)
 for(r=[new A.am(A.d("Criptografia de ponta a ponta","End-to-end encryption","Cifrado de extremo a extremo"),A.d("Mensagens e m\xeddias protegidas.","Protected messages and media.","Mensajes y medios protegidos.")),new A.am(A.d("Chamadas de voz e v\xeddeo","Voice and video calls","Llamadas de voz y video"),A.d("Individuais ou em grupo com at\xe9 24 pessoas.","One-to-one or in groups of up to 24 people.","Individuales o en grupo de hasta 24 personas.")),new A.am(A.d("Agenda","Calendar","Agenda"),A.d("Calend\xe1rio, semana por hor\xe1rio, cria\xe7\xe3o r\xe1pida por texto e alarmes no hor\xe1rio do compromisso.","Calendar, hourly week view, quick add by text and alarms when an event starts.","Calendario, semana por horas, creaci\xf3n r\xe1pida por texto y alarmas a la hora del evento.")),new A.am(A.d("Controle de privacidade","Privacy controls","Control de privacidad"),A.d("Autoexcluir mensagens, conversas trancadas e quem pode te ligar.","Auto-delete messages, locked chats and who can call you.","Autoeliminar mensajes, conversaciones protegidas y qui\xe9n puede llamarte.")),new A.am(A.d(l,l,l),A.d("Temas exclusivos, m\xeddia sem compress\xe3o e arquivos de at\xe9 1 GB.","Exclusive themes, uncompressed media and files up to 1 GB.","Temas exclusivos, multimedia sin compresi\xf3n y archivos de hasta 1 GB.")),new A.am(A.d("Contato","Contact","Contacto"),A.d(k,k,k))],q=t.VO,p=0;p<6;++p){o=r[p]
 n=A.av(B.Gw,f,m,m,18)
 o=A.a([new A.fk(o.a+"\n",m,m,B.aX,m,m,m,m,m,m,B.hR),new A.fk(o.b,m,m,B.aX,m,m,m,m,m,m,new A.P(!0,g,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m))],q)
@@ -87001,7 +87001,7 @@ A.bIM.prototype={
 $0(){return this.a.w=2},
 $S:0}
 A.bIO.prototype={
-$2(a,b){var s,r,q=null,p=Math.min(b.b-48,280)/1.6071428571428572,o=b.d/2-60-p,n=this.a,m=n.r
+$2(a,b){var s,r,q=null,p=Math.min(b.b-48,280)/1.3232142857142857,o=b.d/2-60-p,n=this.a,m=n.r
 m===$&&A.b()
 m=A.a([A.p9(0,A.jL(A.hD(m,new A.bIN(n),q),!0,q))],t.p)
 if(n.w>=1){s=n.d
@@ -87508,7 +87508,7 @@ n=k.a.c.a
 n=A.d("Vers\xe3o "+n,"Version "+n,"Versi\xf3n "+n)
 m=s.w
 q=A.p(n,B.b4j,j,j,j,j,m==null?j:m.vY(q,B.ak),B.V,j,j)
-n=A.d("Atualize para continuar usando o app. Vers\xe3o instalada: 1.0.42.","Update to keep using the app. Installed version: 1.0.42.","Actualiza para seguir usando la app. Versi\xf3n instalada: 1.0.42.")
+n=A.d("Atualize para continuar usando o app. Vers\xe3o instalada: 1.0.43.","Update to keep using the app. Installed version: 1.0.43.","Actualiza para seguir usando la app. Versi\xf3n instalada: 1.0.43.")
 m=s.z
 l=t.p
 m=A.a([p,B.bT,o,B.af,q,B.aF,A.p(n,j,j,j,j,j,m==null?j:m.ayf(i.Q,1.5),B.V,j,j),B.f0],l)
@@ -95999,7 +95999,7 @@ l(){this.ga4g().l()
 this.aPK()},
 A(a){var s
 this.a.toString
-s=A.b2E("assets/brand/direitamais_logo.png",null,B.cj,B.i5,96,"Frente Capital",96)
+s=A.b2E("assets/brand/frentecapital_logo.png",null,B.cj,B.i5,96,"Frente Capital",96)
 return A.hD(this.ga4g(),new A.bws(this),s)}}
 A.bws.prototype={
 $2(a,b){var s=this.a.ga4g().x
@@ -96950,7 +96950,7 @@ A(a){var s=null,r=this.c
 return A.c1(A.cj1("assets/icons/crown.svg",new A.yL(this.d,B.Bx,s,B.a85),r,s,r),s,s)}}
 A.Dq.prototype={
 A(a){var s=this.c
-return A.b2E("assets/brand/direitamais_logo.png",null,B.cj,B.i5,s,"Frente Capital",s*1.6071428571428572)}}
+return A.b2E("assets/brand/frentecapital_logo.png",null,B.cj,B.i5,s,"Frente Capital",s*1.3232142857142857)}}
 A.V3.prototype={
 Y(){return new A.ax9(null,null)}}
 A.ax9.prototype={
