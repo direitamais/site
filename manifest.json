@@ -1,11 +1,11 @@
 {
-    "name": "Direita Mais",
-    "short_name": "Direita Mais",
+    "name": "Frente Capital",
+    "short_name": "Frente Capital",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0A1A13",
     "theme_color": "#0A1A13",
-    "description": "Direita Mais — Mensageiro privado",
+    "description": "Frente Capital — Mensageiro privado",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
