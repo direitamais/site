@@ -50006,12 +50006,12 @@ bp5:function bp5(a,b,c){this.a=a
 this.b=b
 this.c=c},
 bp6:function bp6(){},
-b1_(a,b,c,d){var s=0,r=A.j(t.y),q,p,o
-var $async$b1_=A.e(function(e,f){if(e===1)return A.f(f,r)
+b1_(a,b,c,d,e){var s=0,r=A.j(t.y),q,p,o
+var $async$b1_=A.e(function(f,g){if(f===1)return A.f(g,r)
 for(;;)switch(s){case 0:o=A
 s=3
-return A.c(a.TX(b,null,d,null,a.f+"/authorize"),$async$b1_)
-case 3:p=o.dq(f.b,0,null)
+return A.c(a.TX(b,d,e,null,a.f+"/authorize"),$async$b1_)
+case 3:p=o.dq(g.b,0,null)
 b.k(0,B.C9)
 q=A.RW(p,c,"_self")
 s=1
@@ -51904,7 +51904,7 @@ cxy(){var s=0,r=A.j(t.Cy),q,p,o,n
 var $async$c4v=A.e(function(a,b){if(a===1)return A.f(b,r)
 for(;;)switch(s){case 0:p=null
 o=null
-n=48
+n=49
 J.m(n,0)
 q=null
 s=1
@@ -84336,7 +84336,7 @@ p=A.d(k,k,k)
 j=j.RG==null?j.a:B.l
 o=A.d(k,k,k)
 n=s.a4?A.d("Plano PRO ativado","PRO plan active","Plan PRO activado"):A.d("Privacidade e recursos avan\xe7ados","Privacy and advanced features","Privacidad y funciones avanzadas")
-return A.dO(A.a([new A.aCB(s,l),B.aF,new A.tN(l,q,l),new A.tN(p,A.a([new A.iZ(l,new A.yv(22,j,l),o,n,new A.bmA(m,a),l,l,l)],r),l),new A.tN(A.d("GERAL","GENERAL","GENERAL"),A.a([new A.iZ(B.wn,l,A.d("Notifica\xe7\xf5es","Notifications","Notificaciones"),A.d("Sons, vibra\xe7\xe3o e alertas","Sounds, vibration and alerts","Sonidos, vibraci\xf3n y alertas"),new A.bmB(m,a),l,l,l),B.hB,new A.iZ(B.ft,l,A.d("Privacidade","Privacy","Privacidad"),A.d("Visibilidade e confirma\xe7\xe3o de leitura","Visibility and read receipts","Visibilidad y confirmaci\xf3n de lectura"),new A.bmC(m,a),l,l,l),B.hB,new A.iZ(B.H8,l,A.d("Seguran\xe7a","Security","Seguridad"),A.d("Senha, PIN e exclus\xe3o de conta","Password, PIN and account deletion","Contrase\xf1a, PIN y eliminaci\xf3n de cuenta"),new A.bmD(m,a),l,l,l),B.hB,new A.iZ(B.ajQ,l,A.d("Apar\xeancia","Appearance","Apariencia"),A.cHn(s.gNQ()),new A.bmE(m,a),l,l,l),B.hB,new A.iZ(B.ajB,l,A.d("Idioma","Language","Idioma"),A.cHm(s.ao),new A.bmF(m,a),l,l,l)],r),l),new A.tN(A.d("DADOS","DATA","DATOS"),A.a([new A.iZ(B.ak_,l,A.d("Armazenamento","Storage","Almacenamiento"),A.d("Gerenciar dados e cache","Manage data and cache","Administrar datos y cach\xe9"),new A.bmG(m,a),l,l,l)],r),l),new A.tN(A.d("SUPORTE","SUPPORT","SOPORTE"),A.a([new A.iZ(B.aiV,l,A.d("Ajuda","Help","Ayuda"),A.d("Perguntas frequentes e suporte","FAQ and support","Preguntas frecuentes y soporte"),new A.bmH(m,a),l,l,l),B.hB,new A.iZ(B.k9,l,A.d("Sobre a Frente Capital","About Frente Capital","Acerca de Frente Capital"),A.d("Vers\xe3o","Version","Versi\xf3n")+" 1.0.47",new A.bmz(m,a),l,l,l)],r),l)],r),l,B.F8,l,l,B.I,!1)},
+return A.dO(A.a([new A.aCB(s,l),B.aF,new A.tN(l,q,l),new A.tN(p,A.a([new A.iZ(l,new A.yv(22,j,l),o,n,new A.bmA(m,a),l,l,l)],r),l),new A.tN(A.d("GERAL","GENERAL","GENERAL"),A.a([new A.iZ(B.wn,l,A.d("Notifica\xe7\xf5es","Notifications","Notificaciones"),A.d("Sons, vibra\xe7\xe3o e alertas","Sounds, vibration and alerts","Sonidos, vibraci\xf3n y alertas"),new A.bmB(m,a),l,l,l),B.hB,new A.iZ(B.ft,l,A.d("Privacidade","Privacy","Privacidad"),A.d("Visibilidade e confirma\xe7\xe3o de leitura","Visibility and read receipts","Visibilidad y confirmaci\xf3n de lectura"),new A.bmC(m,a),l,l,l),B.hB,new A.iZ(B.H8,l,A.d("Seguran\xe7a","Security","Seguridad"),A.d("Senha, PIN e exclus\xe3o de conta","Password, PIN and account deletion","Contrase\xf1a, PIN y eliminaci\xf3n de cuenta"),new A.bmD(m,a),l,l,l),B.hB,new A.iZ(B.ajQ,l,A.d("Apar\xeancia","Appearance","Apariencia"),A.cHn(s.gNQ()),new A.bmE(m,a),l,l,l),B.hB,new A.iZ(B.ajB,l,A.d("Idioma","Language","Idioma"),A.cHm(s.ao),new A.bmF(m,a),l,l,l)],r),l),new A.tN(A.d("DADOS","DATA","DATOS"),A.a([new A.iZ(B.ak_,l,A.d("Armazenamento","Storage","Almacenamiento"),A.d("Gerenciar dados e cache","Manage data and cache","Administrar datos y cach\xe9"),new A.bmG(m,a),l,l,l)],r),l),new A.tN(A.d("SUPORTE","SUPPORT","SOPORTE"),A.a([new A.iZ(B.aiV,l,A.d("Ajuda","Help","Ayuda"),A.d("Perguntas frequentes e suporte","FAQ and support","Preguntas frecuentes y soporte"),new A.bmH(m,a),l,l,l),B.hB,new A.iZ(B.k9,l,A.d("Sobre a Frente Capital","About Frente Capital","Acerca de Frente Capital"),A.d("Vers\xe3o","Version","Versi\xf3n")+" 1.0.48",new A.bmz(m,a),l,l,l)],r),l)],r),l,B.F8,l,l,B.I,!1)},
 bjw(a){var s=null,r=t.a.a(A.D(a).c.h(0,A.a9(t.q)))
 r.toString
 A.ek(s,s,!0,s,new A.bmp(this,r,a),a,s,!0,t.z)},
@@ -84446,7 +84446,7 @@ $S:0}
 A.bml.prototype={
 $1(a){var s,r,q,p,o,n,m=null,l="Frente Capital PRO",k="Frente Capital Company \u2014 contato@frentecapital.com.br",j=this.b,i=(this.a-j)/2,h=A.bc(16),g=this.c,f=g.a,e=t.p,d=A.aO(A.a([A.bS(m,B.akQ,B.r,m,m,new A.bb(f,m,m,B.a4q,m,m,m,B.H),m,40,m,m,m,m,m,40),B.bS,A.p("Frente Capital",m,m,m,m,m,m,m,m,m)],e),B.j,m,B.h,B.k,0,m)
 g=g.Q
-s=A.a([A.p(A.d("Vers\xe3o","Version","Versi\xf3n")+" 1.0.47",m,m,m,m,m,B.hR,m,m,m),B.bi,A.p(A.d("Mensageiro privado","Private messenger","Mensajero privado"),m,m,m,m,m,A.ag(m,m,g,m,m,m,m,m,m,m,m,13,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m,m),B.ay,A.p(A.d("Mensageiro privado e seguro para conversas, chamadas e agenda, desenvolvido pela Frente Capital Company. Voc\xea se identifica por um ID, sem precisar de telefone ou e-mail. Vers\xe3o de demonstra\xe7\xe3o dispon\xedvel at\xe9 29 de outubro de 2026.","A private, secure messenger for chats, calls and a calendar, made by Frente Capital Company. You are identified by an ID, with no phone number or e-mail required. Demo version available until October 29, 2026.","Mensajero privado y seguro para conversaciones, llamadas y agenda, desarrollado por Frente Capital Company. Te identificas con un ID, sin necesidad de tel\xe9fono ni correo. Versi\xf3n de demostraci\xf3n disponible hasta el 29 de octubre de 2026."),m,m,m,m,m,B.a0a,m,m,m),B.ag],e)
+s=A.a([A.p(A.d("Vers\xe3o","Version","Versi\xf3n")+" 1.0.48",m,m,m,m,m,B.hR,m,m,m),B.bi,A.p(A.d("Mensageiro privado","Private messenger","Mensajero privado"),m,m,m,m,m,A.ag(m,m,g,m,m,m,m,m,m,m,m,13,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m,m),B.ay,A.p(A.d("Mensageiro privado e seguro para conversas, chamadas e agenda, desenvolvido pela Frente Capital Company. Voc\xea se identifica por um ID, sem precisar de telefone ou e-mail. Vers\xe3o de demonstra\xe7\xe3o dispon\xedvel at\xe9 29 de outubro de 2026.","A private, secure messenger for chats, calls and a calendar, made by Frente Capital Company. You are identified by an ID, with no phone number or e-mail required. Demo version available until October 29, 2026.","Mensajero privado y seguro para conversaciones, llamadas y agenda, desarrollado por Frente Capital Company. Te identificas con un ID, sin necesidad de tel\xe9fono ni correo. Versi\xf3n de demostraci\xf3n disponible hasta el 29 de octubre de 2026."),m,m,m,m,m,B.a0a,m,m,m),B.ag],e)
 for(r=[new A.am(A.d("Criptografia de ponta a ponta","End-to-end encryption","Cifrado de extremo a extremo"),A.d("Mensagens e m\xeddias protegidas.","Protected messages and media.","Mensajes y medios protegidos.")),new A.am(A.d("Chamadas de voz e v\xeddeo","Voice and video calls","Llamadas de voz y video"),A.d("Individuais ou em grupo com at\xe9 24 pessoas.","One-to-one or in groups of up to 24 people.","Individuales o en grupo de hasta 24 personas.")),new A.am(A.d("Agenda","Calendar","Agenda"),A.d("Calend\xe1rio, semana por hor\xe1rio, cria\xe7\xe3o r\xe1pida por texto e alarmes no hor\xe1rio do compromisso.","Calendar, hourly week view, quick add by text and alarms when an event starts.","Calendario, semana por horas, creaci\xf3n r\xe1pida por texto y alarmas a la hora del evento.")),new A.am(A.d("Controle de privacidade","Privacy controls","Control de privacidad"),A.d("Autoexcluir mensagens, conversas trancadas e quem pode te ligar.","Auto-delete messages, locked chats and who can call you.","Autoeliminar mensajes, conversaciones protegidas y qui\xe9n puede llamarte.")),new A.am(A.d(l,l,l),A.d("Temas exclusivos, m\xeddia sem compress\xe3o e arquivos de at\xe9 1 GB.","Exclusive themes, uncompressed media and files up to 1 GB.","Temas exclusivos, multimedia sin compresi\xf3n y archivos de hasta 1 GB.")),new A.am(A.d("Contato","Contact","Contacto"),A.d(k,k,k))],q=t.VO,p=0;p<6;++p){o=r[p]
 n=A.av(B.Gx,f,m,m,18)
 o=A.a([new A.fk(o.a+"\n",m,m,B.aX,m,m,m,m,m,m,B.hR),new A.fk(o.b,m,m,B.aX,m,m,m,m,m,m,new A.P(!0,g,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m))],q)
@@ -87530,7 +87530,7 @@ n=k.a.c.a
 n=A.d("Vers\xe3o "+n,"Version "+n,"Versi\xf3n "+n)
 m=s.w
 q=A.p(n,B.b4l,j,j,j,j,m==null?j:m.vY(q,B.ak),B.V,j,j)
-n=A.d("Atualize para continuar usando o app. Vers\xe3o instalada: 1.0.47.","Update to keep using the app. Installed version: 1.0.47.","Actualiza para seguir usando la app. Versi\xf3n instalada: 1.0.47.")
+n=A.d("Atualize para continuar usando o app. Vers\xe3o instalada: 1.0.48.","Update to keep using the app. Installed version: 1.0.48.","Actualiza para seguir usando la app. Versi\xf3n instalada: 1.0.48.")
 m=s.z
 l=t.p
 m=A.a([p,B.bT,o,B.ag,q,B.aF,A.p(n,j,j,j,j,j,m==null?j:m.ayh(i.Q,1.5),B.V,j,j),B.eq],l)
@@ -92199,7 +92199,7 @@ return A.i($async$LK,r)},
 aKZ(){return this.Bc(A.L(["mode","signup","invite",this.c1],t.N,t.K))},
 bAs(){return this.Bc(A.L(["mode","login"],t.N,t.K))},
 Bc(a){return this.bkf(a)},
-bkf(a){var s=0,r=A.j(t.H),q=1,p=[],o=this,n,m,l
+bkf(a){var s=0,r=A.j(t.H),q=1,p=[],o=this,n,m,l,k,j
 var $async$Bc=A.e(function(b,c){if(b===1){p.push(c)
 s=q}for(;;)switch(s){case 0:o.k1=null
 o.dx=!0
@@ -92209,13 +92209,16 @@ n=o.c
 n=n==null?null:n.dM("String","direitamais_pending_oauth",B.a1.ko(a,null))
 s=6
 return A.c(t.U.b(n)?n:A.aZ(n,t.c),$async$Bc)
-case 6:s=7
-return A.c(A.b1_(o.b.a.geb(),B.C9,B.p9,A.Be().gzj()+"/"),$async$Bc)
+case 6:n=o.b.a.geb()
+m=A.Be().gzj()
+l=t.N
+s=7
+return A.c(A.b1_(n,B.C9,B.p9,A.L(["prompt","select_account"],l,l),m+"/"),$async$Bc)
 case 7:q=1
 s=5
 break
 case 3:q=2
-l=p.pop()
+j=p.pop()
 n=o.c
 n=n==null?null:n.H(0,"direitamais_pending_oauth")
 s=8
@@ -168164,6 +168167,7 @@ n=t.N
 m=A.w(n,n)
 m.m(0,"provider","google")
 m.m(0,"redirect_to",c)
+m.A(0,b)
 if(o!=null)m.A(0,A.L(["flow_type",p.cx.b,"code_challenge",o,"code_challenge_method","s256"],n,n))
 n=A.rp(null,null,null,null,null,null,m,null,null).f
 if(n==null)n=""
