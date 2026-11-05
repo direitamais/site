@@ -48894,7 +48894,7 @@ ceP(){var s=0,r=A.n(t.Cy),q,p,o,n
 var $async$bSk=A.j(function(a,b){if(a===1)return A.k(b,r)
 for(;;)switch(s){case 0:p=null
 o=null
-n=57
+n=58
 J.i(n,0)
 q=null
 s=1
@@ -79746,7 +79746,7 @@ o=A.d("SUPORTE","SUPPORT","SOPORTE")
 k=A.d("Ajuda","Help","Ayuda")
 k=A.pP(B.beW,h,h,h,new A.b9I(i,a),A.d("Perguntas frequentes e suporte","FAQ and support","Preguntas frecuentes y soporte"),k)
 l=A.d("Sobre a Frente Capital","About Frente Capital","Acerca de Frente Capital")
-return A.dg(A.b([new A.ni(h,r,h),new A.ni(q,p,h),new A.ni(n,j,h),new A.ni(o,A.b([k,B.kw,A.pP(B.m1,h,h,h,new A.b9J(i,a),A.d("Vers\xe3o","Version","Versi\xf3n")+" 1.0.56",l)],s),h)],s),h,B.D8,h,h,B.M,!1)},
+return A.dg(A.b([new A.ni(h,r,h),new A.ni(q,p,h),new A.ni(n,j,h),new A.ni(o,A.b([k,B.kw,A.pP(B.m1,h,h,h,new A.b9J(i,a),A.d("Vers\xe3o","Version","Versi\xf3n")+" 1.0.57",l)],s),h)],s),h,B.D8,h,h,B.M,!1)},
 a4l(a,b,c,d){var s=A.cS(new A.b9x(!0,b,c),null,t.z)
 A.ai(a,!1).d8(s)},
 bbi(a){var s=null
@@ -79821,7 +79821,7 @@ $S:0}
 A.b9v.prototype={
 $1(a){var s,r,q,p,o,n,m=null,l="Frente Capital PRO",k="Frente Capital Company \u2014 contato@frentecapital.com.br",j=this.b,i=(this.a-j)/2,h=A.b6(16),g=this.c,f=g.a,e=t.p,d=A.aF(A.b([A.bG(m,B.bgB,B.w,m,m,new A.aY(f,m,m,B.a1M,m,m,m,B.O),m,40,m,m,m,m,m,40),B.ca,A.p("Frente Capital",m,m,m,m,m,m,m,m,m)],e),B.m,B.h,B.l,0,m)
 g=g.Q
-s=A.b([A.p(A.d("Vers\xe3o","Version","Versi\xf3n")+" 1.0.56",m,m,m,m,m,B.fM,m,m,m),B.bE,A.p(A.d("Mensageiro privado","Private messenger","Mensajero privado"),m,m,m,m,m,A.ae(m,m,g,m,m,m,m,m,m,m,m,13,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m,m),B.aF,A.p(A.d("Mensageiro privado e seguro para conversas e agenda, desenvolvido pela Frente Capital Company. Voc\xea se identifica por um ID, sem precisar de telefone ou e-mail. Vers\xe3o de demonstra\xe7\xe3o dispon\xedvel at\xe9 29 de outubro de 2026.","A private, secure messenger for chats and a calendar, made by Frente Capital Company. You are identified by an ID, with no phone number or e-mail required. Demo version available until October 29, 2026.","Mensajero privado y seguro para conversaciones y agenda, desarrollado por Frente Capital Company. Te identificas con un ID, sin necesidad de tel\xe9fono ni correo. Versi\xf3n de demostraci\xf3n disponible hasta el 29 de octubre de 2026."),m,m,m,m,m,B.YS,m,m,m),B.aq],e)
+s=A.b([A.p(A.d("Vers\xe3o","Version","Versi\xf3n")+" 1.0.57",m,m,m,m,m,B.fM,m,m,m),B.bE,A.p(A.d("Mensageiro privado","Private messenger","Mensajero privado"),m,m,m,m,m,A.ae(m,m,g,m,m,m,m,m,m,m,m,13,m,m,m,m,m,!0,m,m,m,m,m,m,m,m),m,m,m),B.aF,A.p(A.d("Mensageiro privado e seguro para conversas e agenda, desenvolvido pela Frente Capital Company. Voc\xea se identifica por um ID, sem precisar de telefone ou e-mail. Vers\xe3o de demonstra\xe7\xe3o dispon\xedvel at\xe9 29 de outubro de 2026.","A private, secure messenger for chats and a calendar, made by Frente Capital Company. You are identified by an ID, with no phone number or e-mail required. Demo version available until October 29, 2026.","Mensajero privado y seguro para conversaciones y agenda, desarrollado por Frente Capital Company. Te identificas con un ID, sin necesidad de tel\xe9fono ni correo. Versi\xf3n de demostraci\xf3n disponible hasta el 29 de octubre de 2026."),m,m,m,m,m,B.YS,m,m,m),B.aq],e)
 for(r=[new A.ad(A.d("Criptografia de ponta a ponta","End-to-end encryption","Cifrado de extremo a extremo"),A.d("Mensagens e m\xeddias protegidas.","Protected messages and media.","Mensajes y medios protegidos.")),new A.ad(A.d("\xc1udios no Chat Geral","Audio in General Chat","Audios en el Chat General"),A.d("Grava\xe7\xf5es de at\xe9 90 segundos, com prote\xe7\xe3o contra spam.","Recordings up to 90 seconds, with spam protection.","Grabaciones de hasta 90 segundos, con protecci\xf3n contra spam.")),new A.ad(A.d("Agenda","Calendar","Agenda"),A.d("Calend\xe1rio, semana por hor\xe1rio, cria\xe7\xe3o r\xe1pida por texto e alarmes no hor\xe1rio do compromisso.","Calendar, hourly week view, quick add by text and alarms when an event starts.","Calendario, semana por horas, creaci\xf3n r\xe1pida por texto y alarmas a la hora del evento.")),new A.ad(A.d("Controle de privacidade","Privacy controls","Control de privacidad"),A.d("Autoexcluir mensagens, conversas trancadas e quem pode te ligar.","Auto-delete messages, locked chats and who can call you.","Autoeliminar mensajes, conversaciones protegidas y qui\xe9n puede llamarte.")),new A.ad(A.d(l,l,l),A.d("Temas exclusivos, m\xeddia sem compress\xe3o e arquivos de at\xe9 1 GB.","Exclusive themes, uncompressed media and files up to 1 GB.","Temas exclusivos, multimedia sin compresi\xf3n y archivos de hasta 1 GB.")),new A.ad(A.d("Contato","Contact","Contacto"),A.d(k,k,k))],q=t.VO,p=0;p<6;++p){o=r[p]
 n=A.as(B.Ev,f,m,m,18)
 o=A.b([new A.f9(o.a+"\n",m,m,B.b7,m,m,m,m,m,m,B.fM),new A.f9(o.b,m,m,B.b7,m,m,m,m,m,m,new A.M(!0,g,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m,m))],q)
@@ -83159,7 +83159,7 @@ n=k.a.c.a
 n=A.d("Vers\xe3o "+n,"Version "+n,"Versi\xf3n "+n)
 m=s.w
 q=A.p(n,B.c_0,j,j,j,j,m==null?j:m.t_(q,B.an),B.a4,j,j)
-n=A.d("Atualize para continuar usando o app. Vers\xe3o instalada: 1.0.56.","Update to keep using the app. Installed version: 1.0.56.","Actualiza para seguir usando la app. Versi\xf3n instalada: 1.0.56.")
+n=A.d("Atualize para continuar usando o app. Vers\xe3o instalada: 1.0.57.","Update to keep using the app. Installed version: 1.0.57.","Actualiza para seguir usando la app. Versi\xf3n instalada: 1.0.57.")
 m=s.z
 l=t.p
 m=A.b([p,B.c_,o,B.aq,q,B.aV,A.p(n,j,j,j,j,j,m==null?j:m.ati(i.Q,1.5),B.a4,j,j),B.eB],l)
