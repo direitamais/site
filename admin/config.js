@@ -1,0 +1,1 @@
+window.ADMIN_CONFIG = { mode: 'supabase', url: 'https://eqdjgjdgxheqyzuubvby.supabase.co', anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVxZGpnamRneGhlcXl6dXVidmJ5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTM1OTI1NDQsImV4cCI6MjEwOTE2ODU0NH0.XW7K2_3PyNabH0nV44q0H-e74AGZzkUaP-EfNnTBRlc' };
