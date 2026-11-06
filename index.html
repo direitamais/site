@@ -17,6 +17,29 @@
   <base href="/">
 
   <meta charset="UTF-8">
+  <!-- scripts/dev-local.sh (porta 8080): o debug do Flutter web (hot
+       reload) só conecta por 127.0.0.1; "localhost" travaria no
+       carregador. Restrito a essa porta — outras prévias locais (ex.
+       localhost:8765) já funcionam e estão na lista de redirecionamento
+       do id-login; redirecionar o host delas quebraria a recuperação de
+       senha por ID, que não aceita 127.0.0.1:8765 como destino. -->
+  <!-- Clickjacking: outro site poderia carregar o app num iframe invisível,
+       com a sessão de quem está logado, e induzir um clique em "excluir
+       conta" ou "enviar". GitHub Pages não envia X-Frame-Options e
+       frame-ancestors não vale em <meta>. Padrão do OWASP (Clickjacking
+       Defense Cheat Sheet): a página nasce escondida e só aparece fora de
+       iframe; num iframe não há nada visível para clicar. -->
+  <style id="fc-antiframe">html { display: none !important; }</style>
+  <script>
+    if (location.hostname === 'localhost' && location.port === '8080') {
+      location.replace(location.href.replace('//localhost', '//127.0.0.1'));
+    }
+    if (window.top === window.self) {
+      document.getElementById('fc-antiframe').remove();
+    } else {
+      try { window.top.location = window.self.location; } catch (_) {}
+    }
+  </script>
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="Frente Capital — Mensageiro privado">
 
@@ -65,6 +88,6 @@
     For more details:
     * https://docs.flutter.dev/platform-integration/web/initialization
   -->
-  <script src="flutter_bootstrap.js?v=1.0.61%2B62" async></script>
+  <script src="flutter_bootstrap.js?v=1.0.62%2B63" async></script>
 </body>
 </html>

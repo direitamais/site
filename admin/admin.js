@@ -6,9 +6,22 @@
 // na página como texto (el()), nunca como HTML.
 'use strict';
 (() => {
+  // Clickjacking: another site could load this panel in an invisible
+  // iframe (with the admin's own session) and trick a click on "suspender"
+  // or "PRO". GitHub Pages can't send X-Frame-Options, and CSP
+  // frame-ancestors is ignored in a <meta>, so refuse to run framed.
+  if (window.top !== window.self) {
+    document.documentElement.replaceChildren();
+    return;
+  }
   const CFG = window.ADMIN_CONFIG || {};
   const LOCAL = CFG.mode === 'local';
   const SUPABASE_JS = 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2.45.4/dist/umd/supabase.js';
+  // Subresource Integrity: the browser refuses the file if the CDN ever
+  // serves something else, so a compromised CDN cannot run code with the
+  // admin's session. Changing the version above requires a new hash
+  // (openssl dgst -sha384 -binary supabase.js | openssl base64 -A).
+  const SUPABASE_JS_SRI = 'sha384-0w2KAL2YHP6wKOkUDzkCDGgVvfmHnj02DHeQ6XcHOgTfFsGyonKOpShMH1x6nk9o';
   const PAGE = 50;
 
   // ── DOM ───────────────────────────────────────────────────────────
@@ -162,9 +175,9 @@
   }
 
   // ── Entrada ───────────────────────────────────────────────────────
-  function loadScript(src) {
+  function loadScript(src, integrity) {
     return new Promise((resolve, reject) => {
-      const s = el('script', { src, crossorigin: 'anonymous' });
+      const s = el('script', { src, integrity, crossorigin: 'anonymous' });
       s.onload = resolve;
       s.onerror = () => reject(new Error('Não foi possível carregar o cliente do Supabase.'));
       document.head.append(s);
@@ -184,7 +197,7 @@
       return message('Chave errada', 'config.js tem a service_role key. Troque pela chave pública (anon): a service key nunca pode ir para o navegador.');
     }
     try {
-      await loadScript(SUPABASE_JS);
+      await loadScript(SUPABASE_JS, SUPABASE_JS_SRI);
     } catch (e) {
       return message('Sem conexão', e.message);
     }
