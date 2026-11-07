@@ -31,14 +31,41 @@
        iframe; num iframe não há nada visível para clicar. -->
   <style id="fc-antiframe">html { display: none !important; }</style>
   <script>
-    if (location.hostname === 'localhost' && location.port === '8080') {
-      location.replace(location.href.replace('//localhost', '//127.0.0.1'));
-    }
-    if (window.top === window.self) {
+    (() => {
+      if (window.top !== window.self) {
+        try { window.top.location = window.self.location; } catch (_) {}
+        return;
+      }
+      if (location.hostname === 'localhost' && location.port === '8080') {
+        location.replace(location.href.replace('//localhost', '//127.0.0.1'));
+        return;
+      }
+      if (location.hostname === 'frentecapital.com.br') {
+        const ua = navigator.userAgent;
+        const isPhone = /iPhone|iPod|Windows Phone/i.test(ua) ||
+          (/Android/i.test(ua) && /Mobile/i.test(ua)) ||
+          navigator.userAgentData?.mobile === true;
+
+        if (isPhone) {
+          const url = new URL(location.href);
+          const fragment = new URLSearchParams(url.hash.slice(1));
+          // Login and recovery must finish on the origin that started them.
+          const authKeys = ['code', 'token_hash', 'access_token',
+            'refresh_token', 'error', 'error_code', 'recuperar'];
+          const isAuthReturn = authKeys.some(key =>
+            url.searchParams.has(key) || fragment.has(key));
+
+          if (!isAuthReturn) {
+            url.protocol = 'https:';
+            url.host = 'm.frentecapital.com.br';
+            url.port = '';
+            location.replace(url.href);
+            return;
+          }
+        }
+      }
       document.getElementById('fc-antiframe').remove();
-    } else {
-      try { window.top.location = window.self.location; } catch (_) {}
-    }
+    })();
   </script>
   <meta content="IE=Edge" http-equiv="X-UA-Compatible">
   <meta name="description" content="Frente Capital — Mensageiro privado">
