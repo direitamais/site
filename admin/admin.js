@@ -635,6 +635,65 @@
 
   // ── Visão geral ───────────────────────────────────────────────────
   let seriesDays = Number(store.get('fc-admin-days')) || 30;
+  function storageCard(storage) {
+    if (!storage) {
+      return card('Armazenamento', el('p', { class: 'muted' }, 'Dados de armazenamento indisponíveis.'));
+    }
+    const mb = (bytes) => `${new Intl.NumberFormat('pt-BR', {
+      maximumFractionDigits: 1,
+    }).format(bytes / 1000000)} MB`;
+    const target = 900000000;
+    const used = storage.used_bytes;
+    const oldest = storage.oldest ? Date.parse(storage.oldest) : null;
+    const delayed = oldest !== null && Date.now() - oldest > 15 * 60 * 1000;
+    return el('section', { class: 'card', style: 'margin-bottom:14px' },
+      el('div', { class: 'card-head' }, el('h2', null, 'Armazenamento do projeto')),
+      el('div', { class: 'card-body stack' },
+        el('strong', null, `${mb(used)} ocupados · ${fmtNum(storage.objects)} arquivos`),
+        el('progress', {
+          max: target, value: Math.min(used, target),
+          'aria-label': 'Uso em relação à meta de 900 MB',
+          style: 'width:100%',
+        }),
+        el('span', { class: 'muted' }, 'Meta operacional de 900 MB. O Supabase mede a cota de cobrança separadamente.'),
+        used >= 700000000 ? el('strong', null, used >= target
+          ? 'Meta de armazenamento atingida' : 'Uso acima de 700 MB') : null,
+        props(storage.buckets.map((b) => [b.bucket, `${mb(b.bytes)} · ${fmtNum(b.objects)} arquivos`])),
+        props([
+          ['Limpeza automática', storage.cleanup_scheduled ? 'Agendada' : 'Agendamento pendente'],
+          ['Arquivos na fila', storage.pending == null ? 'Fila indisponível' : fmtNum(storage.pending)],
+          ['Arquivos aguardando nova tentativa', storage.retrying == null ? null : fmtNum(storage.retrying)],
+          ['Item mais antigo na fila', oldest === null ? '—' : fmtDateTime(storage.oldest)],
+          ['Situação da fila', delayed ? 'Aguardando há mais de 15 minutos' : null],
+        ])));
+  }
+
+  function liveStorageCard() {
+    const panel = el('div', { class: 'stack', 'aria-live': 'polite' }, 'Consultando armazenamento…');
+    const token = routeToken;
+    async function refresh() {
+      const [accounts, modules] = await Promise.all([
+        api.rpc('admin_storage_overview').catch(() => null),
+        api.rpc('admin_module_storage_usage').catch(() => null),
+      ]);
+      if (token !== routeToken || !panel.isConnected) return;
+      panel.replaceChildren(storageCard(accounts), props([
+        ['Feed e Chat Geral', formatUsage(modules?.FEED)],
+        ['Vagas e Salas Privadas', formatUsage(modules?.ROOMS)],
+      ]));
+      setTimeout(refresh, 60000);
+    }
+    function formatUsage(sample) {
+      if (!sample) return 'Medição indisponível';
+      const mb = new Intl.NumberFormat('pt-BR', { maximumFractionDigits: 2 })
+        .format(sample.used_bytes / 1000000);
+      const stale = Date.now() - Date.parse(sample.sampled_at) > 3 * 60000;
+      return `${mb} MB · ${fmtNum(sample.objects)} arquivos · ${fmtDateTime(sample.sampled_at)}${stale ? ' · medição desatualizada' : ''}`;
+    }
+    setTimeout(refresh, 0);
+    return card('Uso de Storage por projeto', panel);
+  }
+
   async function viewOverview() {
     const [o, series, activity] = await Promise.all([
       refreshOverview(), api.rpc('admin_daily_series', { days: seriesDays }), api.rpc('admin_recent_activity', { max_rows: 40 }),
@@ -706,6 +765,7 @@
     return [
       topbar('Visão geral', el('button', { class: 'btn', onclick: route }, 'Atualizar')),
       kpis,
+      liveStorageCard(),
       el('div', { class: 'grid two', style: 'margin-bottom:14px' }, signups, attentionCard),
       el('h3', { style: 'margin:6px 0 10px' }, `Fluxo de uso · últimos ${seriesDays} dias`),
       el('div', { class: 'grid mini-charts', style: 'margin-bottom:14px' }, minis),
