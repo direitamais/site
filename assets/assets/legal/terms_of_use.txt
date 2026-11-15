@@ -1,0 +1,70 @@
+FRENTE CAPITAL
+FRENTE CAPITAL  |  DOCUMENTAÇÃO JURÍDICA
+Termos de Uso
+Condições de acesso, comunicação privada, arquivos, agenda e Frente Capital PRO.
+EDIÇÃO 1.4  •  13 de novembro de 2026
+Versão: 1.4  |  Atualização: 13 de novembro de 2026  |  Vigência: a partir da disponibilização e aceite no aplicativo
+Estes Termos de Uso (“Termos”) regem o acesso e a utilização da Frente Capital, aplicativo de comunicação desenvolvido e disponibilizado pela Frente Capital Company (“Frente Capital Company”, “nós”). A Política de Privacidade integra estes Termos e explica como os dados são tratados.
+1. Quem somos e como falar conosco
+1.1. A Frente Capital é um produto da Frente Capital Company, responsável pelo aplicativo e pelo tratamento de dados descrito na Política de Privacidade.
+1.2. Dúvidas, solicitações, denúncias e pedidos relacionados a estes Termos podem ser enviados para o e-mail contato@frentecapital.com.br.
+1.3. Ao utilizar o aplicativo, o usuário declara ter lido e aceitado estes Termos e a Política de Privacidade, por meio do aceite apresentado no cadastro. A Frente Capital Company poderá registrar a versão aceita e o momento do aceite.
+2. Disponibilidade do serviço
+2.1. O serviço pode mudar com novas versões. Alguns recursos dependem da plataforma, da conexão e da infraestrutura disponível.
+3. Cadastro e conta
+3.1. O cadastro é destinado a maiores de 18 anos e exige convite válido. A conta usa um ID e autenticação por e-mail e senha ou por uma conta Google, conforme o fluxo disponível.
+3.2. O usuário deve proteger suas credenciais, as chaves de criptografia e o aparelho. Perder o aparelho ou as credenciais pode afetar o acesso à conta e ao conteúdo.
+3.3. Identificadores de conta, endereço IP e registros técnicos podem ser considerados dados pessoais, conforme descrito na Política de Privacidade.
+4. Conversas e criptografia
+4.1. Conversas individuais usam criptografia de ponta a ponta pelo Protocolo Signal quando a proteção está disponível para os participantes. Conversas antigas podem conter mensagens em formato anterior.
+4.2. Grupos, Chat Geral e publicações no Feed seguem as permissões de cada área e não têm criptografia de ponta a ponta.
+4.3. O Chat Geral mantém até 300 mensagens da última hora. O conteúdo pode desaparecer antes de ser lido.
+4.4. O usuário pode verificar a identidade de um contato comparando o número de segurança ou lendo o código QR do contato, e é avisado quando a chave de um contato muda.
+4.5. A criptografia não impede capturas de tela, gravações, encaminhamentos, cópias feitas por outros participantes, notificações exibidas no aparelho ou acesso por dispositivos comprometidos.
+5. Exclusão de mensagens e conversas
+5.1. Limpar ou apagar uma conversa remove o conteúdo apenas do aparelho de quem realiza a ação. A conversa não é apagada no aparelho dos demais participantes, e uma conversa apagada reaparece quando chega uma nova mensagem.
+5.2. Mídias de publicações e conversas podem ficar indisponíveis após exclusão ou expiração, conforme a área e a versão do serviço.
+5.3. A Frente Capital não oferece restauração de conteúdo apagado. A exclusão não garante a eliminação de cópias externas, backups do sistema ou vestígios fora do controle do aplicativo.
+6. Fotos, vídeos e documentos
+6.1. O Feed aceita fotos de até 6 MB e vídeos de até 90 segundos. O limite de tamanho de vídeo é informado no envio.
+6.2. Fotos e vídeos podem passar por compressão antes do envio. Os limites nas conversas podem variar conforme o plano e a plataforma.
+6.3. Envios acima do limite da conta são recusados pelo aplicativo. O envio também pode depender da conexão, do espaço e da memória disponíveis no aparelho.
+6.4. O usuário deve verificar a procedência e a segurança dos arquivos que envia e recebe, e é responsável pelas cópias que salvar, exportar ou compartilhar fora do aplicativo.
+7. Agenda e alarmes
+7.1. A agenda da Frente Capital é pessoal e fica somente no aparelho do usuário. Os compromissos não são enviados aos servidores nem sincronizados com outros aparelhos e são apagados ao sair da conta.
+7.2. No Android, compromissos com horário tocam um alarme no início do evento, abrem o aplicativo com as informações do compromisso e exibem uma notificação até que o alarme seja desligado ou adiado. No computador, o alarme toca enquanto o aplicativo estiver aberto.
+7.3. O funcionamento do alarme depende das permissões concedidas pelo usuário (notificações, alarmes exatos e exibição em tela cheia) e das configurações de economia de energia do aparelho. A Frente Capital não se responsabiliza por compromissos perdidos por permissões negadas, aparelho desligado ou restrições do sistema operacional.
+8. Frente Capital PRO
+8.1. O PRO libera recursos adicionais, como temas, selo e limites ampliados. Os benefícios e prazos aplicáveis são exibidos no aplicativo.
+8.2. Benefícios PRO podem ser concedidos pela administração ou resgatados por cupom, conforme as condições exibidas.
+8.3. Caso a Frente Capital PRO passe a ser oferecido mediante assinatura paga em versão futura, preço, periodicidade, renovação, cancelamento e reembolso serão informados de forma clara antes da contratação, com respeito ao direito de arrependimento previsto no Código de Defesa do Consumidor.
+8.4. Se o PRO deixar de estar ativo, os temas exclusivos voltam ao tema Padrão e passam a valer os limites da conta gratuita.
+9. Uso aceitável
+9.1. É proibido utilizar a Frente Capital para ameaças, fraudes, perseguição, exploração de crianças ou adolescentes, divulgação não consentida de conteúdo íntimo, distribuição de malware, spam, violação de direitos autorais ou qualquer outro ato ilícito.
+9.2. Não é permitido contornar controles de segurança, explorar vulnerabilidades, fazer engenharia reversa para fins abusivos ou se passar por outra pessoa.
+9.3. A Frente Capital Company poderá restringir ou encerrar contas que violem estes Termos, respeitando os limites técnicos da criptografia: não há leitura ou monitoramento rotineiro das conversas privadas.
+9.4. É permitido expressar opiniões políticas e fazer escolhas de consumo dentro da lei. É proibido usar a plataforma para organizar boicotes a empresas por suas posições políticas, ameaçar, perseguir ou expor dados pessoais de alguém, ou para pressionar trabalhadores a revelar ou mudar seu voto ou opinião.
+9.5. Não use vagas, candidaturas, perfis ou chats para classificar pessoas por posição política ou retaliar contra candidatos e trabalhadores. A regra vale independentemente da orientação política.
+9.6. Use Denunciar, quando disponível, ou escreva para contato@frentecapital.com.br. A equipe pode analisar o motivo e o conteúdo denunciado, aplicar medidas proporcionais e receber pedidos de revisão pelo mesmo canal.
+9.7. Informações disponíveis poderão ser fornecidas mediante ordem válida de autoridade competente, nos termos da lei.
+10. Propriedade intelectual
+10.1. A Frente Capital Company concede ao usuário licença pessoal, limitada, não exclusiva e revogável para utilizar o aplicativo conforme estes Termos.
+10.2. A marca Frente Capital, o código, os temas, os ícones e os demais elementos do aplicativo pertencem à Frente Capital Company ou a seus licenciantes.
+10.3. Os conteúdos enviados pelos usuários continuam pertencendo a seus titulares. O envio não transfere direitos sobre esses conteúdos à Frente Capital Company.
+11. Disponibilidade e segurança
+11.1. O funcionamento depende de conexão com a internet, do aparelho e dos serviços de infraestrutura utilizados. Manutenções e interrupções podem ocorrer.
+11.2. O usuário deve manter o sistema do aparelho atualizado, proteger o acesso ao aparelho e evitar arquivos e aplicativos suspeitos.
+12. Crianças e adolescentes
+12.1. A Frente Capital é destinado exclusivamente a pessoas com 18 anos completos ou mais. É vedado o uso por crianças e adolescentes, mesmo com autorização dos responsáveis.
+12.2. Havendo indícios de uso por menor de 18 anos, a Frente Capital Company poderá restringir ou encerrar o acesso.
+13. Encerramento da conta
+13.1. O usuário pode sair da conta ou excluí-la pelo aplicativo, ou solicitar apoio pelo e-mail contato@frentecapital.com.br.
+13.2. Excluir a conta não apaga as mensagens já recebidas por outros participantes nem registros cuja guarda seja exigida por lei.
+14. Responsabilidades
+14.1. O usuário responde pelos conteúdos que envia e pelas decisões de compartilhamento.
+14.2. A Frente Capital Company responde pelas obrigações previstas na legislação brasileira, inclusive de proteção de dados e de defesa do consumidor. Nenhuma cláusula destes Termos afasta garantias legais obrigatórias.
+15. Lei aplicável, alterações e contato
+15.1. Estes Termos são regidos pela legislação brasileira.
+15.2. Alterações relevantes serão informadas no aplicativo, e um novo aceite será solicitado quando exigido.
+15.3. Se alguma disposição for considerada inválida, as demais continuam válidas.
+15.4. Responsável: Frente Capital Company. Contato: contato@frentecapital.com.br.

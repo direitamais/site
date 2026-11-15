@@ -1,0 +1,59 @@
+FRENTE CAPITAL
+FRENTE CAPITAL  |  DOCUMENTAÇÃO JURÍDICA
+Política de Privacidade
+Como a Frente Capital, da Frente Capital Company, trata dados de conta, conversas, arquivos, agenda e PRO.
+EDIÇÃO 1.4  •  13 de novembro de 2026
+Versão: 1.4  |  Atualização: 13 de novembro de 2026  |  Vigência: a partir da disponibilização e aceite no aplicativo
+Esta Política explica quais dados a Frente Capital trata, para quê, com quem são compartilhados e como o titular pode exercer seus direitos, nos termos da Lei Geral de Proteção de Dados (LGPD).
+1. Controlador e canal de contato
+1.1. O controlador dos dados é a Frente Capital Company, desenvolvedora e responsável pelo aplicativo Frente Capital.
+1.2. Para dúvidas, solicitações sobre dados pessoais ou comunicação de incidentes, o titular pode escrever para contato@frentecapital.com.br.
+1.3. O atendimento poderá pedir as informações necessárias para confirmar que a solicitação vem do titular da conta.
+2. Dados de cadastro e informações sensíveis
+2.1. O serviço usa convite, ID de conta, nome exibido e dados de autenticação por e-mail ou Google. O cadastro regular não exige documento de identidade nem telefone.
+2.2. Não solicitamos posição política, partido ou voto no cadastro, nem usamos essas informações para classificar candidatos, trabalhadores ou empresas. Opinião política é dado pessoal sensível na LGPD. Evite enviar informações desse tipo sobre terceiros em perfis, publicações e denúncias.
+3. Dados que tratamos e finalidades
+3.1. Conta: ID, nome exibido, foto de perfil (quando enviada), status, preferências de privacidade e chaves públicas de criptografia. Finalidade: identificar a conta, permitir que contatos a encontrem e cifrar as conversas.
+3.2. Contatos e grupos: contatos adicionados, bloqueios, restrições e participação em grupos. Finalidade: funcionamento das conversas e controle de acesso.
+3.3. Mensagens e anexos são processados para entrega. Conversas individuais usam criptografia de ponta a ponta quando disponível para os participantes. Grupos, Chat Geral e Feed seguem controles de acesso próprios e não têm essa proteção de ponta a ponta.
+3.4. Feed, empresas e vagas: dados dos perfis, publicações, interações, vagas e candidaturas são tratados para exibir e operar esses recursos conforme as permissões aplicáveis.
+3.5. Dados técnicos: endereço IP, horários de acesso, eventos de autenticação e registros de erro estritamente necessários. Finalidade: segurança, prevenção de abuso, diagnóstico e cumprimento de obrigações legais.
+3.6. PRO: situação do plano, prazos e resgates de cupons, quando aplicável, para liberar os recursos correspondentes.
+3.7. Denúncias: a equipe autorizada pode acessar o motivo enviado, identificadores, data e o texto da mensagem denunciada, quando disponível. Usamos esses dados para analisar denúncias, prevenir abusos e registrar decisões. O formulário do Chat Geral, quando disponível, não copia o arquivo de áudio.
+4. Dados que ficam somente no seu aparelho
+4.1. Agenda: compromissos, horários, locais, observações e alarmes ficam apenas no aparelho. Não são enviados aos servidores, não são sincronizados e são apagados ao sair da conta.
+4.2. Preferências como tema, idioma, conversas fixadas, silenciadas e trancadas e chaves privadas ficam no aparelho. O botão Entendi do aviso inicial registra uma preferência local para evitar repetir a caixa.
+4.3. Mensagens e mídias recebidas podem permanecer no aparelho para exibição, inclusive após se tornarem indisponíveis no servidor.
+5. Fotos, vídeos e documentos
+5.1. Fotos e vídeos podem ser comprimidos antes do envio, conforme o tipo de publicação e os recursos do aparelho. O aplicativo informa os limites aplicáveis.
+5.2. Ao comprimir uma foto, metadados da imagem (como localização do registro EXIF) são removidos. Arquivos enviados no original mantêm os metadados que já possuírem.
+5.3. Arquivos salvos ou exportados para fora do aplicativo deixam de contar com as proteções da Frente Capital.
+6. Compartilhamento com fornecedores
+6.1. A infraestrutura usa Supabase para autenticação, banco, armazenamento e atualizações em tempo real. O login com Google usa o serviço de autenticação do Google. O site é distribuído por GitHub Pages.
+6.2. Esses fornecedores podem estar localizados fora do Brasil. Nesses casos, a transferência internacional observará os mecanismos previstos na LGPD e nas regras da ANPD.
+6.3. A Frente Capital Company não vende dados pessoais e não os compartilha para publicidade.
+6.4. Dados poderão ser fornecidos a autoridades mediante ordem válida, nos limites da lei e do que estiver tecnicamente disponível.
+7. Bases legais
+7.1. Os dados necessários ao funcionamento do serviço são tratados para execução do contrato com o usuário. Registros exigidos por lei são mantidos para cumprimento de obrigação legal.
+7.2. Dados comuns podem ser tratados para segurança e prevenção de abuso com base no legítimo interesse, conforme avaliação dos direitos do titular. Dados sensíveis eventualmente incluídos em denúncias serão tratados apenas nas hipóteses do art. 11 da LGPD aplicáveis ao caso.
+7.3. Quando o consentimento for necessário, ele será pedido de forma específica e poderá ser revogado.
+8. Permissões do aparelho
+8.1. O aplicativo pode solicitar câmera, microfone, acesso a arquivos, notificações, permissões de alarme ou biometria para operar os respectivos recursos.
+8.2. Negar uma permissão limita apenas o recurso que depende dela.
+8.3. Notificações e alarmes podem exibir informações na tela bloqueada, conforme as configurações do aparelho.
+9. Retenção e exclusão
+9.1. Os dados são mantidos apenas pelo tempo necessário às finalidades descritas ou exigido por lei. Registros de acesso à aplicação podem ser guardados por 6 meses, sob sigilo, conforme o Marco Civil da Internet.
+9.2. Limpar ou apagar uma conversa afeta apenas o aparelho de quem realiza a ação. Não há restauração de conteúdo apagado.
+9.3. Publicações e anexos têm prazos de disponibilidade que variam conforme o recurso. O Chat Geral exibe até 300 mensagens da última hora. Registros de denúncia podem ser mantidos após a expiração do conteúdo pelo tempo necessário à análise, à revisão e ao cumprimento de obrigações legais.
+10. Direitos do titular
+10.1. O titular pode pedir confirmação do tratamento, acesso, correção, anonimização, bloqueio ou eliminação, portabilidade, informação sobre compartilhamentos, revogação do consentimento e oposição, nos termos da LGPD.
+10.2. Os pedidos podem ser feitos pelo e-mail contato@frentecapital.com.br. O titular também pode apresentar reclamação à Autoridade Nacional de Proteção de Dados (ANPD).
+11. Crianças e adolescentes
+11.1. A Frente Capital é destinado exclusivamente a maiores de 18 anos. Se for identificado o uso por menor de idade, a conta poderá ser encerrada e os dados eliminados, observadas as obrigações legais.
+12. Segurança
+12.1. Adotamos controles de acesso, criptografia em trânsito, criptografia de ponta a ponta nas conversas individuais compatíveis e armazenamento protegido de credenciais quando disponível.
+12.2. Nenhuma medida elimina todos os riscos, como aparelhos comprometidos, perda do aparelho ou divulgação do conteúdo por outro participante.
+12.3. Em caso de incidente de segurança com risco aos titulares, a Frente Capital Company comunicará a ANPD e os titulares afetados, conforme a lei.
+13. Alterações desta Política
+13.1. Esta Política pode ser atualizada para refletir mudanças no aplicativo ou na legislação. Alterações relevantes serão informadas no aplicativo.
+13.2. Controlador: Frente Capital Company. Contato: contato@frentecapital.com.br.
